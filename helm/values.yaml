@@ -106,5 +106,6 @@
 
 # affinity: {}
 
+
 env:
   APP_VERSION: <desired_application_version>
